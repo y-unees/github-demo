@@ -1,0 +1,9 @@
+*{
+    background-color: grey;
+}
+
+.abc{
+    width: 500px;
+    height: 500px;
+    background-color: red;
+}
